@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nougat Night Mode</string>
+    <string name="text_info">Once Night mode is enabled, you might need to reconfigure the tiles in the status bar by clicking on \'EDIT\'</string>
+    <string name="text_instructions">It appears you don\'t have SysUI tuner enabled \n 1. Enable \'SysUI Tuner\' by pulling down the status bar. Press and hold the settings icon until you get a notification asking if you want to enable \'System UI tuner\'. Enable it. \n 2. Click on the  \'Enable Night mode\' button here</string>
+</resources>
